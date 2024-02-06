@@ -26,26 +26,29 @@ Here are some ideas to get you started:
     
 <h3>Connect with me:</h3>
 <p>
-<a target="_blank" href="sultanayubi360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-SultanAyubi360-red?style=for-the-badge&logo=email"></a>
+<a target="_blank" href="sultanayubi360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-SultanAyubi360-blue?style=for-the-badge&logo=Gmail"></a>
 <a target="_blank" href="https://github.com/SultanAyubi360"><img alt="Github" src="https://img.shields.io/badge/Github-SultanAyubi360-blue?style=for-the-badge&logo=github"></a>
 <a href="https://wa.link/1f2deb"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-SultanAyubi360-limegreen?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.facebook.com/profile.php?id=100093770020415&mibextid=ZbWKwL"><img alt="Facebook" src="https://img.shields.io/badge/facebook-SultanAyubi-blue?style=for-the-badge&logo=facebook"></a>
   
-</p>
+</p> &ensp;&ensp;
+
+
 <h3 >Languages and Tools:</h3>
-<p ><a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>   &ensp;
-  <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="55" height="55"/> 
-  </a>&ensp;
- </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 
-  </a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.postimg.cc/wMgW67VC/android-studio.png" alt="ps" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
- </a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a>&ensp;<a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/> 
+
+<p>
+  
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>
+<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/java_icon.png" alt="Java" width="35" height="35"/>
+</a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/>
+</a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.postimg.cc/wMgW67VC/android-studio.png" alt="ps" width="40" height="40"/>
+</a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>&ensp;<a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/> 
 </a>&ensp;<a href="https://docs.google.com/spreadsheets/u/0/" target="_blank"> 
 </a>&ensp;<a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="ps" width="40" height="40"/>
-</a>&ensp;<a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/200px-Adobe_XD_CC_icon.svg.png" alt="ps" width="40" height="40"/>
-  </a> 
-   </a>&ensp;<a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> 
+</a>&ensp;<a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/200px-Adobe_XD_CC_icon.svg.png" alt="ps" width="40" height="40"/></a> 
+</a>&ensp;<a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
+</a>&ensp;
 
 </p>
 
