@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p>
 <a target="_blank" href="sultanayubi360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-SultanAyubi360-red?style=for-the-badge&logo=email"></a>
 <a target="_blank" href="https://github.com/SultanAyubi360"><img alt="Github" src="https://img.shields.io/badge/Github-SultanAyubi360-blue?style=for-the-badge&logo=github"></a>
-<a href="https://wa.link/1f2deb"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-SultanAyubi360-blue?style=for-the-badge&logo=whatsapp"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.link/1f2deb"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-SultanAyubi360-green?style=for-the-badge&logo=whatsapp"></a>
   
 </p>
 <h3 >Languages and Tools:</h3>
