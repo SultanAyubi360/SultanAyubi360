@@ -17,8 +17,8 @@ Here are some ideas to get you started:
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
   <h2 >My GitHub Status:</h2>
-<p>
-  <img align="center" src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
+<p align="center">
+  <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
 </p>
 
   <p align="center">
