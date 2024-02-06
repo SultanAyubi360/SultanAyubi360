@@ -53,10 +53,9 @@ Here are some ideas to get you started:
 
 
 
-<h2 >My GitHub Stats :bar_chart:</h2>
+<h2 >My GitHub Status:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lnmcode&show_icons=true&theme=tokyonight" height="160">&ensp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnmcode&layout=compact&theme=tokyonight" height="160">
+  <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="160">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
 </p>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LNMCode&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="lnmcode" /></p>
