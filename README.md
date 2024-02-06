@@ -16,6 +16,11 @@ Here are some ideas to get you started:
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
+  <h2 >My GitHub Status:</h2>
+<p>
+  <img align="center" src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
+</p>
+
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
@@ -51,12 +56,6 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
-<h2 >My GitHub Status:</h2>
-<p>
-  <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="160">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
-</p>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LNMCode&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="lnmcode" /></p>
    
