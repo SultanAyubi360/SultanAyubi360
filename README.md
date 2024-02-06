@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p>
   
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>
-&ensp; &ensp;<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java-thumbnail.jpg" alt="Java" width="35" height="35"/>
+&ensp;<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java-thumbnail.jpg" alt="Java" width="35" height="35"/>
 </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/>
 </a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.postimg.cc/wMgW67VC/android-studio.png" alt="ps" width="40" height="40"/>
 </a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
