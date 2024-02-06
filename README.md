@@ -26,11 +26,10 @@ Here are some ideas to get you started:
     
 <h3>Connect with me:</h3>
 <p>
-<a target="_blank" href="mailto:longnmp31@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-LNMCode-red?style=for-the-badge&logo=email"></a>
-<a target="_blank" href="https://github.com/LNMCode/LNMCode"><img alt="Github" src="https://img.shields.io/badge/Github-LNMCode-blue?style=for-the-badge&logo=github"></a>
-<a target="_blank" href="https://stackoverflow.com/users/edit/15537176"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-LNMCode-orange?style=for-the-badge&logo=stackoverflow"></a>
-<a target="_blank" href="https://www.youtube.com/channel/UC2MMVD-OEax_kHd1z2g7LbQ"><img alt="Youtube channel" src="https://img.shields.io/badge/Youtube-LNMCode-red?style=for-the-badge&logo=youtube"></a>
-
+<a target="_blank" href="sultanayubi360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-LNMCode-red?style=for-the-badge&logo=email"></a>
+<a target="_blank" href="https://github.com/SultanAyubi360"><img alt="Github" src="https://img.shields.io/badge/Github-LNMCode-blue?style=for-the-badge&logo=github"></a>
+<a href="https://wa.link/1f2deb"><img alt="WhatsApp" src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 <h3 >Languages and Tools:</h3>
 <p ><a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>   &ensp;
