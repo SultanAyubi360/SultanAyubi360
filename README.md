@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
   <h3>Profile views</h3>
-  <a href="https://github.com/LNMCode">
+  <a href="https://github.com/SultanAyubi360">
     <img src="https://komarev.com/ghpvc/?username=LNMCode&style=for-the-badge">
   </a>
     
