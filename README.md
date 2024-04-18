@@ -7,6 +7,10 @@
   <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
 </p>
 
+👀 I’m very interested in the Field of Android Development...
+🌱 I’m currently learning Android Development, Working in the organization of Greesoft...
+💞️ I’m looking to collaborate on Android...
+
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
