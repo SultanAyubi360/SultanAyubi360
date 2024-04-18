@@ -8,7 +8,9 @@
 </p>
 
 👀 I’m very interested in the Field of Android Development...
+
 🌱 I’m currently learning Android Development, Working in the organization of Greesoft...
+
 💞️ I’m looking to collaborate on Android...
 
   <p align="center">
