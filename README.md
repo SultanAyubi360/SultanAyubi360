@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/SultanAyubi360"><img alt="Github" src="https://img.shields.io/badge/Github-Muhammad Salahuddin-blue?style=for-the-badge&logo=github"></a>
 <a href="https://wa.link/1f2deb"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-Sûltåñ Ayubi-limegreen?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.facebook.com/profile.php?id=100093770020415&mibextid=ZbWKwL"><img alt="Facebook" src="https://img.shields.io/badge/facebook-Sûltåñ Ayubi-blue?style=for-the-badge&logo=facebook"></a>
-  
+<a href="www.linkedin.com/in/muhammad-salahuddin-77135b233"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Salahuddin-blue?style=for-the-badge&logo=LinkedIn"></a>
 </p> &ensp;&ensp;
 
 
