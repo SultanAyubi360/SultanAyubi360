@@ -90,6 +90,13 @@
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,&perline=18)
 <hr>
 
+## 🌐 Socials:
+[![Buy me a Coffee](https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/codingmeet) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-meet)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) 
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodingMeet) 
+
+<hr>
+
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
