@@ -2,6 +2,11 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
+<h2 >My GitHub Status:</h2>
+<p align="center">
+  <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
+</p>
+
 <hr>
 
 - 👨‍💻 Computer Engineer.
@@ -82,11 +87,6 @@
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,&perline=18)
 <hr>
-
-  <h2 >My GitHub Status:</h2>
-<p align="center">
-  <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
-</p>
 
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
