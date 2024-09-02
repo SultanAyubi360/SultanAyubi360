@@ -92,7 +92,7 @@
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultanayubi360@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-3085f3?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sultanayubi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salahuddin-77135b233) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093770020415) 
-[![WhatsApp](https://img.shields.io/badge/whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/zae893) 
+[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/zae893) 
 
 <hr>
 
@@ -110,21 +110,7 @@
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
-  <h3>Profile views</h3>
-  <a href="https://github.com/SultanAyubi360">
-    <img src="https://komarev.com/ghpvc/?username=LNMCode&style=for-the-badge">
-  </a>
     
-<h3>Connect with me:</h3>
-<p>
-<a target="_blank" href="mailto:sultanayubi360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-SultanAyubi-red?style=for-the-badge&logo=Gmail"></a>
-<a target="_blank" href="https://github.com/SultanAyubi360"><img alt="Github" src="https://img.shields.io/badge/Github-Muhammad Salahuddin-blue?style=for-the-badge&logo=github"></a>
-<a href="https://wa.link/1f2deb"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-Sûltåñ Ayubi-limegreen?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://www.facebook.com/profile.php?id=100093770020415&mibextid=ZbWKwL"><img alt="Facebook" src="https://img.shields.io/badge/facebook-Sûltåñ Ayubi-blue?style=for-the-badge&logo=facebook"></a>
-<a href="www.linkedin.com/in/muhammad-salahuddin-77135b233"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Salahuddin-blue?style=for-the-badge&logo=LinkedIn"></a>
-</p> &ensp;&ensp;
-
-     
 <hr>
 <h1>Thank You! 🤵 </h1>
 <br>
