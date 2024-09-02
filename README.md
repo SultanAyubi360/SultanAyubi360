@@ -2,16 +2,26 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
+<hr>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+- 👨‍💻 Computer Engineer.
+- 🚀 Passionate about exploring and applying new technologies.
+- 📖 Believer in continuous learning.
+- 🛠️ Enthusiast for a variety of projects.
+- 💼 Freelancer on Upwork and Fiverr.
+- 📹 YouTuber, sharing Android-related knowledge.
+- 👀 I’m very interested in the Field of Android Development...
+- 🌱 I’m currently learning Android Development, Working in the organization...
+- 💞️ I’m looking to collaborate on Android...
+
+<hr>
+
   <h2 >My GitHub Status:</h2>
 <p align="center">
   <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
 </p>
-
-👀 I’m very interested in the Field of Android Development...
-
-🌱 I’m currently learning Android Development, Working in the organization...
-
-💞️ I’m looking to collaborate on Android...
 
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
