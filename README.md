@@ -3,8 +3,6 @@
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
 <hr>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
