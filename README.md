@@ -11,6 +11,10 @@
 
 <hr>
 
+ <p align="center">
+    <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
+  </p>
+
 - 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
@@ -106,9 +110,5 @@
 - Join our passionate community of developers and learn together
 <hr>
 
-
-  <p align="center">
-    <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
-  </p>
     
 <h1>Thank You! 🤵 </h1>
