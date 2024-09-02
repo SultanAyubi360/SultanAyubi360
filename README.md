@@ -78,6 +78,11 @@
 
 <hr>
 
+### 💻 Languages and Tools
+
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,supabase&perline=18)
+<hr>
+
   <h2 >My GitHub Status:</h2>
 <p align="center">
   <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
