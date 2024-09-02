@@ -80,7 +80,7 @@
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,androidstudio,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,&perline=18)
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,&perline=18)
 <hr>
 
   <h2 >My GitHub Status:</h2>
