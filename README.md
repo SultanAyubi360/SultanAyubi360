@@ -3,7 +3,6 @@
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
 <hr>
-<img align='right' src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif">
 
 - 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
