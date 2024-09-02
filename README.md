@@ -99,7 +99,7 @@
 
 <hr>
 
-## :zap: Why Choose Coding Meet?
+## :zap: Why Choose Me?
 
 - Step-by-step guides for Android app development
 - In-depth explanations to understand the concepts thoroughly
