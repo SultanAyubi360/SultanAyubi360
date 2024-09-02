@@ -2,10 +2,15 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App developer 👨‍💻</h2>
 
+<hr>
+
 <h2 >My GitHub Status:</h2>
 <p align="center">
   <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
 </p>
+
+<hr>
+
 
 <hr>
 
