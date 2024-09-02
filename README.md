@@ -1,6 +1,6 @@
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
-  <h2 align="center">Android Mobile App developer 👨‍💻</h2>
+  <h2 align="center">Android Mobile App Developer 👨‍💻</h2>
 
 <hr>
 
@@ -97,6 +97,17 @@
 
 <hr>
 
+<hr>
+
+## :zap: Why Choose Coding Meet?
+
+- Step-by-step guides for Android app development
+- In-depth explanations to understand the concepts thoroughly
+- Regular updates with the latest trends in the Android world
+- Join our passionate community of developers and learn together
+<hr>
+
+
   <p align="center">
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
@@ -113,25 +124,6 @@
 <a href="https://www.facebook.com/profile.php?id=100093770020415&mibextid=ZbWKwL"><img alt="Facebook" src="https://img.shields.io/badge/facebook-Sûltåñ Ayubi-blue?style=for-the-badge&logo=facebook"></a>
 <a href="www.linkedin.com/in/muhammad-salahuddin-77135b233"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Salahuddin-blue?style=for-the-badge&logo=LinkedIn"></a>
 </p> &ensp;&ensp;
-
-
-<h3 >Languages and Tools:</h3>
-
-<p>
-  
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>
-</a>&ensp;<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="Java" width="38" height="38"/>
-</a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/>
-</a>&ensp;<a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.postimg.cc/wMgW67VC/android-studio.png" alt="ps" width="40" height="40"/>
-</a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>&ensp;<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-</a>&ensp;<a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/>
-</a>&ensp;<a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="ps" width="40" height="40"/>
-</a>&ensp;<a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/200px-Adobe_XD_CC_icon.svg.png" alt="ps" width="40" height="40"/></a> 
-</a>&ensp;<a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
-</a>&ensp;
-
-</p>
 
      
 <hr>
