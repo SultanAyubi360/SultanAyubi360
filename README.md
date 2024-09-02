@@ -11,9 +11,6 @@
 
 <hr>
 
-
-<hr>
-
 - 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
