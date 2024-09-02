@@ -111,6 +111,4 @@
     <img src="https://github.com/LNMCode/LNMCode/blob/main/pictures/android_my_git_gif.gif" width="50%" align="right" >
   </p>
     
-<hr>
 <h1>Thank You! 🤵 </h1>
-<br>
