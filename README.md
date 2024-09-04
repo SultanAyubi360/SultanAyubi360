@@ -88,13 +88,12 @@
 ### 💻 Languages and Tools
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,&perline=18)
+
 <hr>
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultanayubi360@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-3085f3?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sultanayubi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salahuddin-77135b233) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093770020415) 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/zae893) 
-
-<hr>
 
 <hr>
 
@@ -104,6 +103,7 @@
 - In-depth explanations to understand the concepts thoroughly
 - Regular updates with the latest trends in the Android world
 - Join our passionate community of developers and learn together
+  
 <hr>
 
     
