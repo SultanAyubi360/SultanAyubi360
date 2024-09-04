@@ -23,16 +23,18 @@
 ## ⭐ Feedback from clients:
 
 - Very happy with the delivery! I had a very old app and not a lot of developers can do update it perfectly. Meet is a very good and did it in a short span of time. I'll hire him again if I need anything else!
-- Gave me code thumbs up 5 star
+- Provided excellent service and delivered exactly what I wanted.
 - I always work with him because he understands very well what I want. He gives me a lot of confidence.
 - Meet is the best, I highly recommend him!
 - Very satisfied with the work received.
-- fast delivery
+- Highly recommend her services.
+- Great! Thank you very much. Very helpful. Much appreciated
+- 5 Stars! Excellent communication, And high quality work. Look forward to collaborating again in the near future.
 - Very responsive and very good communication. Did the work very quickly and fully to the scope. Would recommend 100%.
 - Professional communication, fast delivery ! THX
 - Very helpful person helps us at every situation correct my mistakes and helps to run the activity perfectly thankyou so much a developer like u is impossible to find now days 🙌🙌🙌
 - Thank you for always helping to my project and you never tired of helping me. I appreciate all your efforts.
-- You had patience for me and made sure to help me no matter how the problem was.
+- He provided several great design options in a short time. Highly recommend his work!
 - Problem found fantastic. Job done successfully. Thanks
 
 <hr>
