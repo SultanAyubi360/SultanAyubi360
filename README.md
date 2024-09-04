@@ -100,9 +100,11 @@
 ## :zap: Why Choose Me?
 
 - Step-by-step guides for Android app development
+- High Experienced Mobile App Builder
+- Quality Work & On-time Delivery
+- 100% Satisfaction Guarantee
 - In-depth explanations to understand the concepts thoroughly
 - Regular updates with the latest trends in the Android world
-- Join our passionate community of developers and learn together
   
 <hr>
 
