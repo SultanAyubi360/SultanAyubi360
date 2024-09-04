@@ -2,7 +2,9 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App Developer 👨‍💻</h2>
 
+
 <hr>
+
 
 - 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
@@ -13,8 +15,10 @@
 - 👀 I’m very interested in the Field of Android Development...
 - 🌱 I’m currently learning Android Development, Working in the organization...
 - 💞️ I’m looking to collaborate on Android...
+  
 
 <hr>
+
 
 ## ⭐ Feedback from clients:
 
@@ -30,6 +34,7 @@
 - Thank you for always helping to my project and you never tired of helping me. I appreciate all your efforts.
 - You had patience for me and made sure to help me no matter how the problem was.
 - Problem found fantastic. Job done successfully. Thanks
+
 <hr>
 
 ## :zap: Projects I've worked on
