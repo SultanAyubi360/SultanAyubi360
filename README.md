@@ -4,13 +4,6 @@
 
 <hr>
 
-<h2 >My GitHub Status:</h2>
-<p align="center">
-  <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" height="35">&ensp;<h2 align="center">CONVERT YOUR VISIONS INTO REALITY & TECHNOLOGY❤️</h2>
-</p>
-
-<hr>
-
 - 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
