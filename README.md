@@ -108,5 +108,7 @@
   
 <hr>
 
-    
+
+Let's bring your dream app to life tailored to your brand essence.
+
 <h1>Thank You! 🤵 </h1>
