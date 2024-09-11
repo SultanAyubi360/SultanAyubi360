@@ -70,9 +70,8 @@
 11. **Islamic-Dua-App:**
    Islamic Dua – Hijri Calendar – Hijri Islamic Calendar – The Islamic Calendar – Muslim App.Dhikr & Dua is the latest endeavor of Life With Allah. A beautiful app with a modern design to help you read dhikr and Duas on a daily basis and on key occasions.Muslims around the world use the Islamic calendar (also known as the Lunar or Hijri calendar) to determine the dates of religious events and observances. The Islamic calendar is based on 12 lunar months – a new month begins when a new moon is sighted.
 
-12. **Trivia App:**
-   A mobile application that allows users to answer questions across various categories and difficulty levels.
-
+12. **Video Player App:**
+    Powerful video player with advanced hardware acceleration and subtitle support.Video player is the best video app to play music & video. It is simple operation, quick start, smooth playback.Video player for Chromecast. Cast videos to android TV with Chromecast easily. It’s the best chromecast apps for android free.
 13. **MeetMyShow (Android App):**
    An online movie ticket booking app developed in Kotlin, akin to the BookMyShow platform.
 
