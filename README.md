@@ -40,46 +40,46 @@
 
 ## :zap: Projects I've worked on
 
-1. **News Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux):**
-  News KMP App is a Kotlin Compose Multiplatform (KMP) project that aims to provide a consistent news reading experience across multiple platforms, including Android, iOS, Windows, macOS, and Linux. This project leverages Kotlin's multiplatform capabilities to share code and logic while using Compose for UI, ensuring a seamless and native experience on each platform.
+1. **NinFlix App:**
+  NinFlix is an Android Movie & WebSeries Application, that runs with a fast and lightweight admin panel. The android app builds with native java, admin panel builds with native java. NinFlix App can offer a wide variety of award-winning TV shows, movies, anime, documentaries, kids shows, Eduction videos and more. With powerful features and beautiful design and Responsive, Admin Panel can manage Videos, Slides, categories, users, and others.
 
-2. **Gemini AI Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux, and Web):**
-   Gemini AI KMP App is a Kotlin Compose Multiplatform project designed by Gemini AI where you can retrieve information from text and images in a conversational format. Additionally, it allows storing chats group-wise using SQLDelight and KStore, and facilitates changing the Gemini API key.
+2. **Swag-Earn-App(Earning App):**
+  Android Earn Money Rewards App With Admin App , firebase and google ads Are you looking for the make money app that pays . Here is SwagEarn With Admin App all the feature implemented here. Simple And Profitable App.This application is build with Android Studio and we used clean and quality code for best performance with beautiful UI Design and already integrated with Admob.
 
-3. **String Translator Desktop App:**
-   String Translator Desktop App is a powerful desktop application built with Jetpack Compose, aiming to streamline the translation of strings for developers. It empowers users to seamlessly translate multiple strings into various languages, thereby optimizing the localization process.
+3. **GOLD-QUIZ (Quiz App):**
+  Making money from your phone can be as easy as playing quiz and taking quizzes. Bored at work? Want to Make extra cash fast whether you're stuck on the train or bored at work using this free cash app you can earn money online.GOLD APP is the best way to convert your general knowledge quiz into real money cash and earn free money online.
 
-4. **Custom LCD Pattern Generator (Android App):**
-   An Android application that generates Arduino C code for a given pattern. This app is available on the Play Store and has garnered over 1,000 downloads.
+4. **AL-QURAN-E-KAREEM (QURAN E PAK App):**
+   Al Quran Free - القرآن الكريم is a genuine Islamic application to create flow in your worship time. All Muslims Quran Shareef is a free Holy Quran reading pro for a good day starts, atonement of sins and attainment of blessing. The strong connection with Quran Kareem is the route way, leading to bestowments and Allah’s mercy. Recite Quran Sharif with real feeling, just like an actual Quran in your hand.
 
-5. **Home Automation System (IoT, Android App):**
-   This project allows the control of electronic devices in your home using an Android app.
+5. **ChatGpt-OpenAi:**
+  Android app that is built by ChatGPT from OpenAI 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android.
 
-6. **Electric Vehicle (IoT):**
-   I worked on coding for electric vehicle systems using Arduino C.
+6. **VIDEO-METADATA-EDITOR-AND-PLAYER:**
+   This project develop in android with local database SQLITE.In this App Video Metadata Editor and Player, this application is providing the facility of searching in Video where searching will be based on metadata and metadata includes people, events, location, Description, date and time. now it sounds interesting like how searching can be done in a video. In this project saving videos metadata in database as well as inside the videos.
+   
+8. **Random-Video-Calling-App-FullHD:**
+   A simple video calling application uses Firebase database and WebRTC API that enables you Peer-to-Peer Full-HD video and audio connection.This app using WebRTC API which uses server signaling and NATs for both devices internally. The actual RTC process is bit complicated, for that reason I use PeerJS for simplifying the connection process instead for being complicated for the application and user itself.This app directly connect with a peer, and for initial connection it requires a server to get the data but after getting the connection data, it can able to make path by it's own.
 
-7. **Quillbot Web Scraping (Python):**
-   This project automates the process of rewriting content, saving valuable time that was previously spent on manual tasks.
+9. **MOBILEO-CITY App:**
+   This project develop in android this is device info app.MOBILEO-CITY is a detailed specification of your android phone which includes all the possible hardware configuration and other required details about your own device.
 
-8. **Multifactor Authenticator App:**
-   Designed to enhance online account security by generating unique, time-based codes for user identity verification.
+10. **IronMan VPN App:**
+   Meet Your Dream IronMan VPN App IronMan VPN: Fast & Secure VPN You can enjoy unlimited free VPN service and free VPN proxy servers anytime, anywhere.User-friendly VPN experience One tap to connect to a free VPN proxy server. This VPN works with Wi-Fi, LTE, 3G, and all mobile data carriers.100% free Proxy! Totally unlimited bandwidth! Super-fast and high VPN speed! The best unlimited free Proxy clients for android. and movies, protect Wi-Fi security and protect privacy.
 
-9. **Daily Affirmation (Android App):**
-   A mobile app delivering daily affirmations and inspiring quotes, along with a wallpaper feature for a visually enriching experience.
+11. **Islamic-Dua-App:**
+   Islamic Dua – Hijri Calendar – Hijri Islamic Calendar – The Islamic Calendar – Muslim App.Dhikr & Dua is the latest endeavor of Life With Allah. A beautiful app with a modern design to help you read dhikr and Duas on a daily basis and on key occasions.Muslims around the world use the Islamic calendar (also known as the Lunar or Hijri calendar) to determine the dates of religious events and observances. The Islamic calendar is based on 12 lunar months – a new month begins when a new moon is sighted.
 
-10. **Math Workout - Brain Exercise:**
-   This app offers an array of math challenges, from addition to square roots, making it an engaging tool for brain training.
-
-11. **Trivia App:**
+12. **Trivia App:**
    A mobile application that allows users to answer questions across various categories and difficulty levels.
 
-12. **MeetMyShow (Android App):**
+13. **MeetMyShow (Android App):**
    An online movie ticket booking app developed in Kotlin, akin to the BookMyShow platform.
 
-13. **Android Addict (Website):**
+14. **Android Addict (Website):**
     A React-based website providing Android component code for developers.
 
-14. **Gamer's Arena (Android App):**
+15. **Gamer's Arena (Android App):**
     An Android app designed for hosting and joining gaming tournaments and events.
 
 <hr>
