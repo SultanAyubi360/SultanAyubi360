@@ -6,7 +6,7 @@
 <hr>
 
 
-- 👨‍💻 Computer Engineer.
+- 👨‍💻 Software Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
 - 🛠️ Enthusiast for a variety of projects.
