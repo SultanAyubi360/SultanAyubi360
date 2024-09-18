@@ -73,8 +73,8 @@
 
 12. **Video Player App:**
     Powerful video player with advanced hardware acceleration and subtitle support.Video player is the best video app to play music & video. It is simple operation, quick start, smooth playback.Video player for Chromecast. Cast videos to android TV with Chromecast easily. It’s the best chromecast apps for android free.
-13. **MeetMyShow (Android App):**
-   An online movie ticket booking app developed in Kotlin, akin to the BookMyShow platform.
+13. **WhatsApp Status Saver App:**
+   The WhatsApp Status Saver App is designed to make it easy for you and your friends to download and save WhatsApp statuses directly to your device. This app was created to avoid the hassle of constantly being asked to share your WhatsApp statuses with others. With just a few taps, you can now save any status you like and keep it forever!
 
 14. **Android Addict (Website):**
     A React-based website providing Android component code for developers.
