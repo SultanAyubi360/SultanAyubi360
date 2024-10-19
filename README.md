@@ -1,8 +1,6 @@
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App Developer 👨‍💻</h2>
-
-
 <hr>
 
 
@@ -14,6 +12,7 @@
 - 👀 I’m very interested in the Field of Android Development...
 - 🌱 I’m currently learning Android Development, Working in the organization...
 - 💞️ I’m looking to collaborate on Android...
+- 📹 Sharing Android-related knowledge.
 - 😄 Pronouns: He/His
   
 
