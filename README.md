@@ -73,12 +73,6 @@
 13. **WhatsApp Status Saver App:**
    The WhatsApp Status Saver App is designed to make it easy for you and your friends to download and save WhatsApp statuses directly to your device. This app was created to avoid the hassle of constantly being asked to share your WhatsApp statuses with others. With just a few taps, you can now save any status you like and keep it forever!
 
-14. **Android Addict (Website):**
-    A React-based website providing Android component code for developers.
-
-15. **Gamer's Arena (Android App):**
-    An Android app designed for hosting and joining gaming tournaments and events.
-
 <hr>
 
 ### 💻 Languages and Tools
