@@ -11,7 +11,9 @@
 - 🌱 I’m currently learning Android Development, Working in the organization...
 - 💞️ I’m looking to collaborate on Android...
 - 📹 Sharing Android-related knowledge.
+- 👥 Open to collaborations—let’s create something great!
 - 😄 Pronouns: He/His
+- Offering affordable reskin services for Java & Kotlin Android code.
   
 
 <hr>
