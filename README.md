@@ -1,6 +1,9 @@
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
   <h2 align="center">Android Mobile App Developer 👨‍💻</h2>
+  <h3 align="center">A passionate developer from Pakistan</h3>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaafzaal" /> </p>
 
 - 👨‍💻 Software Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
