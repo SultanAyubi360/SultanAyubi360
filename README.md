@@ -3,7 +3,7 @@
   <h2 align="center">Android Mobile App Developer 👨‍💻</h2>
   <h3 align="center">A passionate developer from Pakistan</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaafzaal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SultanAyubi360&label=Profile%20views&color=0e75b6&style=flat" alt="SultanAyubi360" /> </p>
 
 - 👨‍💻 Software Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
