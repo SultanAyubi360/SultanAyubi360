@@ -31,7 +31,8 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - 📷 Android CameraX
 - Ⓜ️ Google ML-kit
 - 🕸️ Web-Sockets
-- 📦 Dependency Injection Dagger-Hilt,
+- 🎈 Android Libraries
+- 📦 Dependency Injection
 - 🎈 Android Foreground/Background Services
 - 📦 Room Database
 - 🚀 Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
@@ -45,7 +46,7 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - 🔄 Retrofit
 - 🧰 Android Studio
 - 🚀 Ads Integeration
-- 🖼️ Coil image loading library
+- 🖼️ Glide image loading library
   
 ### 🛠️ Tech Stack:
 - **Languages:** Kotlin, Java, C++
