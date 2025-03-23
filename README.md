@@ -35,6 +35,7 @@
 - 🏡 Android Lifecycle Components
 - 💻 Kotlin: Standard Library, LiveData, Flows, Coroutines
 - 🔥 Firebase SDK & Cloud Firestore
+- 🔥 One Signal
 - 🧬 MVVM: Modern Android Architecture
 - 🏗 Clean Architecture
 - 🌐 RESTful APIs
