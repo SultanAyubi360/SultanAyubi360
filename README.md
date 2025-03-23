@@ -26,7 +26,7 @@
 - 📃 Paging 3: Paging Compose
 - 📷 Android CameraX
 - Ⓜ️ Google ML-kit
-- 🎈 Android Libraries
+- 🎈 Develop Android Libraries
 - 📦 Dependency Injection
 - 🎈 Android Foreground/Background Services
 - 📦 Room Database
