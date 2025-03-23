@@ -33,10 +33,10 @@
 - 📦 Room Database
 - 🚀 Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
 - 🏡 Android Lifecycle Components
-- 💻 Kotlin: Standard Library, Flows, Coroutines
+- 💻 Kotlin: Standard Library, LiveData, Flows, Coroutines
 - 🔥 Firebase SDK & Cloud Firestore
 - 🧬 MVVM: Modern Android Architecture
-- 🏗 Multi-Module Architecture
+- 🏗 Clean Architecture
 - 🌐 RESTful APIs
 - 🕸️ Git,Github
 - 💻 XML
