@@ -23,6 +23,30 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 
 <hr>
 
+## Android Development SkillSet:
+- ✨ Jetpack Compose
+- 📽️ Android SDK / Compose components
+- 🎬 Android Media 3: Exoplayer, HLS Adaptive Streaming, MediaSession, MediaSessionService
+- 📃 Paging 3: Paging Compose
+- 📷 Android CameraX
+- Ⓜ️ Google ML-kit
+- 🕸️ Web-Sockets
+- 📦 Dependency Injection Dagger-Hilt,
+- 🎈 Android Foreground/Background Services
+- 📦 Room Database
+- 🚀 Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
+- 🏡 Android Lifecycle Components
+- 💻 Kotlin: Standard Library, Flows, Coroutines
+- 🔥 Firebase SDK & Cloud Firestore
+- 🧬 MVVM: Modern Android Architecture
+- 🏗 Multi-Module Architecture
+- 🌐 RESTful APIs
+- 🕸️ Git,Github
+- 🔄 Retrofit
+- 🧰 Android Studio
+- 🚀 Ads Integeration
+- 🖼️ Coil image loading library
+  
 ### 🛠️ Tech Stack:
 - **Languages:** Kotlin, Java, C++
 - **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Room, Retrofit
@@ -30,26 +54,6 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - **Version Control:** Git, GitHub
 - **Databases:** MYSQL, SQLite, Room, Firebase Realtime Database
 - **Development Tools & Environments:** Android Studio, Visual Studio Code, Gradle
-
-
-## ⭐ Feedback from clients:
-
-- Very happy with the delivery! Meet is a very good and did it in a short span of time. I'll hire him again if I need anything else!
-- Provided excellent service and delivered exactly what I wanted.
-- I always work with him because he understands very well what I want. He gives me a lot of confidence.
-- Meet is the best, I highly recommend him!
-- Very satisfied with the work received.
-- Highly recommend her services.
-- Great! Thank you very much. Very helpful. Much appreciated
-- 5 Stars! Excellent communication, And high quality work. Look forward to collaborating again in the near future.
-- Very responsive and very good communication. Did the work very quickly and fully to the scope. Would recommend 100%.
-- Professional communication, fast delivery ! THX
-- Very helpful person helps us at every situation correct my mistakes and helps to run the activity perfectly thankyou so much a developer like u is impossible to find now days 🙌🙌🙌
-- Thank you for always helping to my project and you never tired of helping me. I appreciate all your efforts.
-- He provided several great design options in a short time. Highly recommend his work!
-- Problem found fantastic. Job done successfully. Thanks
-
-<hr>
 
 ## :zap: Projects I've worked on
 
@@ -113,7 +117,8 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
   
 <hr>
 
-
-Let's bring your dream app to life tailored to your brand essence.
+### For work related queries feel free to contact me.
+### Let's bring your dream app to life tailored to your brand essence.
+Thank you for visiting my GitHub profile! I'm excited to share my Android development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
 
 <h1>Thank You! 🤵 </h1>
