@@ -9,9 +9,7 @@
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
 - 🛠️ Enthusiast for a variety of projects.
-- 💼 I’m currently learning how to create optimized and super smooth apps.
 - 👀 I’m very interested in the Field of Android Development...
-- 🌱 I’m currently learning Android Development, Working in the organization...
 - 💞️ I’m looking to collaborate on Android...
 - 📹 Sharing Android-related knowledge.
 - 👥 Open to collaborations—let’s create something great!
