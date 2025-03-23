@@ -43,6 +43,7 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - 🏗 Multi-Module Architecture
 - 🌐 RESTful APIs
 - 🕸️ Git,Github
+- 💻 XML
 - 🔄 Retrofit
 - 🧰 Android Studio
 - 🚀 Ads Integeration
