@@ -1,11 +1,9 @@
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salahuddin</h1>
-  <h2 align="center">Android Mobile App Developer 👨‍💻</h2>
+  <h2 align="center">🚀 Android Developer | Kotlin | java | Jetpack Compose 👨‍💻</h2>
   <h3 align="center">A passionate developer from Pakistan</h3>
 
-  ### 🚀 Android Developer | Kotlin | JAVA | Jetpack Compose
-
-I'm a passionate **Android developer** who builds modern, high-performance apps using **Kotlin**, **JAVA** and **Jetpack Compose**. I enjoy creating elegant UIs and writing clean, maintainable code.
+  I'm a passionate **Android developer** who builds modern, high-performance apps using **Kotlin**, **JAVA** and **Jetpack Compose**. I enjoy creating elegant UIs and writing clean, maintainable code.
 
 - 👨‍💻 Software Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
