@@ -48,8 +48,8 @@
 - **Languages:** Kotlin, Java, C++
 - **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Room, Retrofit
 - **Architecture:** MVVM, Clean Architecture
-- **Version Control:** Git, GitHub
-- **Databases:** MYSQL, SQLite, Room, Firebase Realtime Database
+- **Version Control:** Git
+- **Databases:** SQLite, Room, Firebase Database
 - **Development Tools & Environments:** Android Studio, Visual Studio Code, Gradle, Postman
 
 ## :zap: Projects I've worked on
