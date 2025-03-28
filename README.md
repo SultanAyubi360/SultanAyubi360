@@ -21,7 +21,6 @@
 
 ## Android Development SkillSet:
 - ✨ Jetpack Compose
-- 📽️ Compose components
 - 🎬 Android Media 3: Exoplayer, HLS Adaptive Streaming, MediaSession, MediaSessionService
 - 📷 Android CameraX
 - Ⓜ️ Google ML-kit
