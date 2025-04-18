@@ -4,6 +4,8 @@
   <h3 align="center">A passionate developer from Pakistan</h3>
 
   I'm a passionate **Android developer** who builds modern, high-performance apps using **Kotlin**, **Java** and **Jetpack Compose**. I enjoy creating elegant UIs and writing clean, maintainable code.
+  Let's connect, collaborate, and learn together!
+
 
 - 👨‍💻 Software Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
@@ -19,7 +21,7 @@
 
 <hr>
 
-## Android Development SkillSet:
+### Android Development SkillSet:
 - ✨ Jetpack Compose
 - 🎬 Android Media 3: Exoplayer, HLS Adaptive Streaming, MediaSession, MediaSessionService
 - 📷 Android CameraX
