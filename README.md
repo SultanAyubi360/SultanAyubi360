@@ -6,17 +6,16 @@
   I'm a passionate **Android developer** who builds modern, high-performance apps using **Kotlin**, **Java** and **Jetpack Compose**. I enjoy creating elegant UIs and writing clean, maintainable code.
   Let's connect, collaborate, and learn together!
 
+### 👨‍💻 About Me
 
-- 👨‍💻 Software Engineer.
-- 🚀 Passionate about exploring and applying new technologies.
-- 📖 Believer in continuous learning.
-- 🛠️ Enthusiast for a variety of projects.
-- 👀 I’m very interested in the Field of Android Development...
-- 💞️ I’m looking to collaborate on Android...
-- 📹 Sharing Android-related knowledge.
-- 👥 Open to collaborations—let’s create something great!
-- 😄 Pronouns: He/His
-- 🫠 Offering affordable reskin services for Java & Kotlin Android code.
+- 🎓 I'm a passionate **Software Engineering Student**
+- 📱 I'm focused on **Android App Development** using **Kotlin** & **Java**
+- 💡 I'm familiar with **MVVM**, **LiveData**, **DataBinding**, **Room**, and **Firebase**
+- 🌐 I work with **REST APIs**, **Retrofit**, and **JSON**
+- 🛠 I use **Android Studio**, **Android SDK**, and practice **clean architecture**
+- 🧠 Currently exploring advanced Android features and open-source contributions
+- 🔄 I use **Git** & **GitHub** for version control and collaboration
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-salah-ud-din-409446361/)
   
 
 <hr>
