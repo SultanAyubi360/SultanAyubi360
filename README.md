@@ -3,8 +3,11 @@
   <h2 align="center">🚀 Android Developer | Kotlin | java 👨‍💻</h2>
   <h3 align="center">A passionate developer from Pakistan</h3>
 
-  I'm a passionate **Android developer** who builds modern, high-performance apps using **Kotlin**, and **Java**. I enjoy creating elegant UIs and writing clean, maintainable code.
-  Let's connect, collaborate, and learn together!
+ 👨‍💻 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝟮.𝟱+ 𝗬𝗲𝗮𝗿𝘀 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 | 𝗞𝗼𝘁𝗹𝗶𝗻/𝗝𝗮𝘃𝗮 𝗟𝗼𝘃𝗲𝗿 | 𝗖𝗹𝗲𝗮𝗻 𝗖𝗼𝗱𝗲 𝗔𝗱𝘃𝗼𝗰𝗮𝘁𝗲
+
+With 2.5 years of hands-on experience in Android development, I specialize in creating high-performance, feature-rich apps that deliver seamless user experiences.
+Crafting Android apps from the ground up, I focus on building scalable, performance-optimized applications using the latest Android technologies. I turn complex challenges into intuitive mobile solutions that users love.
+I take pride in writing clean, maintainable, and testable code, and I’m a strong believer in software craftsmanship. Whether it’s building new features, optimizing existing flows, or debugging complex issues, I approach each task with a problem-solving mindset and an eye for detail. I actively keep up with the latest trends in Android development, always looking to adopt tools and practices that improve app performance and developer productivity.
 
 ### 👨‍💻 About Me
 
