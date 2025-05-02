@@ -11,15 +11,15 @@ I take pride in writing clean, maintainable, and testable code, and I’m a stro
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a passionate **Software Engineering Student**
-- 📱 I'm focused on **Android App Development** using **Kotlin** & **Java**
-- 💡 I'm familiar with **MVVM**, **LiveData**, **DataBinding**, **Room**, and **Firebase**
-- 🌐 I work with **REST APIs**, **Retrofit**, and **JSON**
-- 🛠 I use **Android Studio**, **Android SDK**, and practice **clean architecture**
-- 🧠 Currently exploring advanced Android features and open-source contributions
-- 🔄 I use **Git** & **GitHub** for version control and collaboration
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-salah-ud-din-409446361/)
-  
+🎓 I'm a passionate **Software Engineering Student**
+📱 I'm focused on **Android App Development** using **Kotlin** & **Java**
+👨‍💻 Computer Engineer crafting digital solutions.
+🚀 Passionate about exploring and applying new technologies.
+📖 Committed to continuous learning and growth.
+🛠️ Enthusiastic about diverse projects.
+💼 Freelancing on Upwork & Fiverr, turning ideas into reality.
+👥 Open to collaborations—let’s create something great!
+👨‍💻 Offering affordable reskin services for Java & Kotlin Android code.
 
 <hr>
 
