@@ -1,6 +1,6 @@
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salah Ud Din</h1>
-  <h2 align="center">🚀 Android Developer | Kotlin | java 👨‍💻</h2>
+  <h2 align="center">🚀 Android Developer | Kotlin | java | Jetpack Compose 👨‍💻</h2>
   <h3 align="center">A passionate developer from Pakistan</h3>
 
  👨‍💻 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝟮.𝟱+ 𝗬𝗲𝗮𝗿𝘀 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 | 𝗞𝗼𝘁𝗹𝗶𝗻/𝗝𝗮𝘃𝗮 𝗟𝗼𝘃𝗲𝗿 | 𝗖𝗹𝗲𝗮𝗻 𝗖𝗼𝗱𝗲 𝗔𝗱𝘃𝗼𝗰𝗮𝘁𝗲
