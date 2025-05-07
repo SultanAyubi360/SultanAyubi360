@@ -14,7 +14,9 @@ I take pride in writing clean, maintainable, and testable code, and I’m a stro
 - 🎓 I'm a passionate **Software Engineering Student**
 - 📱 I'm focused on **Android App Development** using **Kotlin** & **Java**
 - 👨‍💻 Computer Engineer crafting digital solutions.
-- 🚀 Passionate about exploring and applying new technologies.
+- 💡 I love exploring and applying new technologies, especially in the mobile space.
+- 📚 Lifelong learner, always curious to level up my skills.
+- 🧩 Enjoy working on diverse projects — from experimental ideas to real-world solutions.
 - 📖 Committed to continuous learning and growth.
 - 🛠️ Enthusiastic about diverse projects.
 - 💼 Freelancing on Upwork & Fiverr, turning ideas into reality.
