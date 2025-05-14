@@ -19,7 +19,7 @@ I take pride in writing clean, maintainable, and testable code, and I’m a stro
 - 🧩 Enjoy working on diverse projects — from experimental ideas to real-world solutions.
 - 📖 Committed to continuous learning and growth.
 - 🛠️ Enthusiastic about diverse projects.
-- 💼 Freelancing on Upwork & Fiverr, turning ideas into reality.
+- 💼 Active Freelancer turning ideas into reality.
 - 👥 Open to collaborations—let’s create something great!
 - 👨‍💻 Offering affordable reskin services for Java & Kotlin Android code.
 
