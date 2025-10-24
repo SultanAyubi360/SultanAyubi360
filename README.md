@@ -26,7 +26,7 @@ I take pride in writing clean, maintainable, and testable code, and I’m a stro
 <hr>
 
 ### Android Development SkillSet:
-- ✨ Jetpack Compose
+- ✨ Java/Kotlin
 - 🎬 Android Media 3: Exoplayer, HLS Adaptive Streaming, MediaSession, MediaSessionService
 - 📷 Android CameraX
 - Ⓜ️ Google ML-kit
