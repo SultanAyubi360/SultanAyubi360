@@ -99,7 +99,7 @@ I take pride in writing clean, maintainable, and testable code, and I’m a stro
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,sqlite,playconsole,&perline=18)
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,xd,idea,py,stackoverflow,git,github,postman,firebase,sqlite,&perline=18)
 
 <hr>
 
