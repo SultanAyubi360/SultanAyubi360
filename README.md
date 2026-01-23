@@ -3,11 +3,13 @@
   <h2 align="center">🚀 Android Developer | Kotlin | java 👨‍💻</h2>
   <h3 align="center">A passionate developer from Pakistan</h3>
 
- 👨‍💻 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝟮.𝟱+ 𝗬𝗲𝗮𝗿𝘀 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 | 𝗞𝗼𝘁𝗹𝗶𝗻/𝗝𝗮𝘃𝗮 𝗟𝗼𝘃𝗲𝗿 | 𝗖𝗹𝗲𝗮𝗻 𝗖𝗼𝗱𝗲 𝗔𝗱𝘃𝗼𝗰𝗮𝘁𝗲
+ #👨‍💻 Android Developer | 3+ Years Experience | Kotlin/Java Lover | Clean Code Advocate
 
-With 2.5 years of hands-on experience in Android development, I specialize in creating high-performance, feature-rich apps that deliver seamless user experiences.
-Crafting Android apps from the ground up, I focus on building scalable, performance-optimized applications using the latest Android technologies. I turn complex challenges into intuitive mobile solutions that users love.
-I take pride in writing clean, maintainable, and testable code, and I’m a strong believer in software craftsmanship. Whether it’s building new features, optimizing existing flows, or debugging complex issues, I approach each task with a problem-solving mindset and an eye for detail. I actively keep up with the latest trends in Android development, always looking to adopt tools and practices that improve app performance and developer productivity.
+With 3 years of hands-on experience in Android development, I specialize in building high-performance, feature-rich applications that deliver seamless and engaging user experiences.
+
+Crafting Android apps from the ground up, I focus on creating scalable, performance-optimized solutions using modern Android technologies. I enjoy turning complex challenges into intuitive and reliable mobile experiences.
+
+I take pride in writing clean, maintainable, and testable code and strongly believe in software craftsmanship. Whether it’s developing new features, optimizing existing flows, or debugging complex issues, I approach every task with a problem-solving mindset and strong attention to detail. I actively stay updated with the latest trends in Android development, continuously adopting tools and practices that enhance app performance and developer productivity.
 
 ### 👨‍💻 About Me
 
