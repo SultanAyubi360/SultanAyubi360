@@ -49,14 +49,6 @@ I take pride in writing clean, maintainable, and testable code, and I’m a stro
 - 🧰 Android Studio
 - 🚀 Ads Integeration
 - 🖼️ Glide image loading library
-  
-### 🛠️ Tech Stack:
-- **Languages:** Kotlin, Java, C++
-- **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Room, Retrofit
-- **Architecture:** MVVM, Clean Architecture
-- **Version Control:** Git
-- **Databases:** SQLite, Room, Firebase Database
-- **Development Tools & Environments:** Android Studio, Visual Studio Code, Gradle, Postman
 
 ## :zap: Projects I've worked on
 
