@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋, I'm Muhammad Salah Ud Din</h1>
   <h2 align="center">🚀 Android Developer | Kotlin | java 👨‍💻</h2>
   <h3 align="center">A passionate developer from Pakistan</h3>
-  <img src="https://i.ibb.co/5xc18pbc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Muhammad Salah Ud Din - Android Developer" align="center" style="display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://i.ibb.co/5xc18pbc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Muhammad Salah Ud Din - Android Developer" align="center">
   
 ### 👨‍💻 Android Developer | 3+ Years Experience | Kotlin/Java Lover | Clean Code Advocate
 
