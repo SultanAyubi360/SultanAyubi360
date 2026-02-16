@@ -5,7 +5,7 @@
   <div style="text-align:center;">
   <img src="https://i.ibb.co/5xc18pbc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" 
        alt="Muhammad Salah Ud Din - Android Developer" 
-       style="width:600px; height:200px;"></div>
+       style="width:900px; height:300px;"></div>
   
 ### 👨‍💻 Android Developer | 3+ Years Experience | Kotlin/Java Lover | Clean Code Advocate
 
