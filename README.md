@@ -99,7 +99,6 @@ Crafting Android apps from the ground up, I focus on creating scalable, performa
 <hr>
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultanayubi360@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-3085f3?style=for-the-badge&logo=Telegram&logoColor=white)](http://t.me/sultanayubi360) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/muhammad-salah-ud-din-409446361) 
