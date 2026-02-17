@@ -101,7 +101,7 @@ Crafting Android apps from the ground up, I focus on creating scalable, performa
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultanayubi360@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-3085f3?style=for-the-badge&logo=Telegram&logoColor=white)](http://t.me/sultanayubi360) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/muhammad-salah-ud-din-409446361) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/muhammad-salah-ud-din-4a92843b1) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CzzD8Jp3Z/) 
 [![WhatsApp Business](https://img.shields.io/badge/whatsapp%20Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/zae893) 
 [![Instagram](https://img.shields.io/badge/instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sultan_ayubi.360?igsh=OXJtY3Z4N2dtOGsy) 
